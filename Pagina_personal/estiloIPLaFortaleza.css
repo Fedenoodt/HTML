@@ -40,6 +40,10 @@ h3 {
     font-size: 70px;
 }
 
+h5 {
+    font-size: 40px;
+}
+
 .home {
     display: flex;
     flex-wrap: wrap;
