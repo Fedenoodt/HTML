@@ -19,3 +19,12 @@ h1 {
 	display: inline-block;
  	margin: 0 30px;
 }
+
+.imgConfiguracion {
+	width: 20%;
+	float: right;
+}
+.inicio{
+	float: right;
+	float: bottom;
+}
